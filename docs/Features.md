@@ -1,30 +1,15 @@
 ---
-id: doc1
-title: Style Guide
-sidebar_label: Style Guide
-slug: /
+id: Features
+title: Features
+sidebar_label: Features
+slug: /features
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+## Easy to understand and create schema
 
-## Markdown Syntax
+The underlying schema that is used to create questions for quizzes follow an easy to understand schema. [Click here](https://devorein.github.io/reinforz-docs/docs/schema) to know about the schema in details
 
-To serve as an example page when styling markdown based Docusaurus sites.
-
-## Headers
-
-# H1 - Create the best documentation
-
-## H2 - Create the best documentation
-
-### H3 - Create the best documentation
-
-#### H4 - Create the best documentation
-
-##### H5 - Create the best documentation
-
-###### H6 - Create the best documentation
-
+## 
 ---
 
 ## Emphasis
@@ -43,16 +28,20 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 1. First ordered list item
 1. Another item
+
    - Unordered sub-list.
+
 1. Actual numbers don't matter, just that it's a number
+
    1. Ordered sub-list
+
 1. And another item.
 
 * Unordered list can use asterisks
 
-- Or minuses
+* Or minuses
 
-+ Or pluses
+* Or pluses
 
 ---
 
@@ -82,7 +71,9 @@ Some text to show that the reference links can follow later.
 
 Here's our logo (hover to see the title text):
 
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
+Inline-style: 
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
 
 Reference-style: ![alt text][logo]
 
@@ -96,24 +87,24 @@ Images from any folder can be used by providing path to file. Path should be rel
 
 ## Code
 
-```javascript
+``` javascript
 var s = 'JavaScript syntax highlighting';
 alert(s);
 ```
 
-```python
+``` python
 s = "Python syntax highlighting"
 print(s)
 ```
 
-```
+``` 
 No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
 ```js {2}
 function highlightMe() {
-  console.log('This line can be highlighted!');
+  console.log('This line can be highlighted!'); 
 }
 ```
 

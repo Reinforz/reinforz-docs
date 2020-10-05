@@ -8,31 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Ease of Use',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Create various types of questions to simulating various scenerios with ease
+        Create various types of questions, simulating various scenerios with ease
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Highly customizable',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Every part of each question can be customized following a specific schema
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Tracking performance',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Easily track your performance on each quiz.
       </>
     ),
   },
