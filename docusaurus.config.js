@@ -68,12 +68,7 @@ module.exports = {
 				docs: {
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
-					editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/'
-				},
-				blog: {
-					showReadingTime: true,
-					// Please change this to your repo.
-					editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/blog/'
+					editUrl: 'https://github.com/Devorein/reinforz-docs/tree/master/docs'
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css')
