@@ -40,7 +40,7 @@ module.exports = {
 						},
 						{
 							label: 'Features',
-							to: 'docs/'
+							to: 'docs/features'
 						},
 						{
 							label: 'Conventions',
