@@ -2,17 +2,17 @@ module.exports = {
 	title: 'Reinforz',
 	tagline: 'Force yourself to master a topic through continuous feedback',
 	url: 'https://devorein.github.io',
-	baseUrl: '/reinforz/',
+	baseUrl: '/reinforz-docs/',
 	onBrokenLinks: 'throw',
 	favicon: 'img/favicon.ico',
-	organizationName: 'devorein',
-	projectName: 'Reinforz',
+	organizationName: 'Devorein',
+	projectName: 'reinforz-docs',
 	themeConfig: {
 		navbar: {
 			title: 'Reinforz',
 			logo: {
 				alt: 'Reinforz Logo',
-				src: 'img/192.png'
+				src: 'img/logo.svg'
 			},
 			items: [
 				{
@@ -36,11 +36,15 @@ module.exports = {
 					items: [
 						{
 							label: 'Getting Started',
-							to: 'docs/Getting Started'
+							to: 'docs/'
+						},
+						{
+							label: 'Features',
+							to: 'docs/'
 						},
 						{
 							label: 'Conventions',
-							to: 'docs/Conventions'
+							to: 'docs/'
 						}
 					]
 				},

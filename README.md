@@ -1,3 +1,3 @@
 # reinforz-docs
 
-Repository containing Reinforz documentation
+Repository containing (Reinforz)[https://github.com/Devorein/reinforz] documentation

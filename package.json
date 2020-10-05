@@ -1,5 +1,5 @@
 {
-  "name": "reinforz",
+  "name": "reinforz-docs",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -15,6 +15,7 @@
     "@docusaurus/preset-classic": "2.0.0-alpha.65",
     "@mdx-js/react": "^1.5.8",
     "clsx": "^1.1.1",
+    "gh-pages": "^3.1.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
