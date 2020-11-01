@@ -1,8 +1,8 @@
 module.exports = {
 	someSidebar: {
-    Introduction: [ 'Getting Started', 'Features' ],
-    Usage: ['Conventions','Workflow','Shortcuts'],
-		Pages: [ 'Home', 'Game', 'Report' ],
-		Schema: [ 'Schema', 'Parsing', 'Errors' ],
+    Introduction: [ 'Introduction/Getting Started', 'Introduction/Features' ],
+    Usage: ['Usage/Conventions','Usage/Workflow','Usage/Shortcuts'],
+		Pages: [ 'Pages/Home', 'Pages/Game', 'Pages/Report','Pages/Answers' ],
+		Schema: [ 'Schema/Schema', 'Schema/Parsing', 'Schema/Errors' ],
 	}
 };

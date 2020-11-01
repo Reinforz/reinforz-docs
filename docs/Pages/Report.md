@@ -23,7 +23,7 @@ Each row of report table contains information about your performance in a specif
 
 #### ReportExport
 
-The report and actual questions can be exported as YAML or JSON files.
+The generated report and actual questions can be exported as YAML or JSON files, to be played at a later time.
 
 :::note
 If you choose to export the questions only the filtered questions will be exported, into multiple files each containing the question quiz
