@@ -14,3 +14,5 @@ The app is hosted by github pages [here](https://devorein.github.io/reinforz). N
 1. Clone the repo `https://github.com/Devorein/reinforz.git` to any local directory.
 2. Run `npm install` or `yarn install` to install all the dependencies
 3. Run `npm start` to start the app locally, which should run the app at `http://localhost:3000/reinforz`
+
+Visit the other pages to learn more about how to use it.

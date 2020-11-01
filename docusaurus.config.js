@@ -1,7 +1,7 @@
 module.exports = {
 	title: 'Reinforz',
 	tagline: 'Force yourself to master a topic through continuous feedback',
-	url: 'https://devorein.github.io',
+	url: 'https://reinforz.github.io',
 	baseUrl: '/reinforz-docs/',
 	onBrokenLinks: 'throw',
 	favicon: 'img/favicon.ico',
@@ -22,7 +22,7 @@ module.exports = {
 					position: 'left'
 				},
 				{
-					href: 'https://github.com/Devorein/reinforz',
+					href: 'https://github.com/Reinforz/reinforz',
 					label: 'GitHub',
 					position: 'right'
 				}
@@ -53,7 +53,7 @@ module.exports = {
 					items: [
 						{
 							label: 'GitHub',
-							href: 'https://github.com/Devorein/reinforz'
+							href: 'https://github.com/Reinforz/reinforz'
 						}
 					]
 				}
@@ -68,7 +68,7 @@ module.exports = {
 				docs: {
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
-					editUrl: 'https://github.com/Devorein/reinforz-docs/tree/master/'
+					editUrl: 'https://github.com/Reinforz/reinforz-docs/tree/master/'
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css')
