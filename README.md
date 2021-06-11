@@ -1,5 +1,5 @@
 # reinforz-docs
 
-Click here to visit the [Docs](https://github.com/Reinforz/reinforz-docs)
+**This repo has been archived**.
 
-Repository containing [Reinforz](https://github.com/Reinforz/reinforz) documentation
+Please, click here to visit the new [Docs](https://reinforz-docs.vercel.app) for [Reinforz](https://github.com/devorein/reinforz)
